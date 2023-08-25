@@ -1,0 +1,9 @@
+02/08/2023
+reg query "HKLM\SOFTWARE\microsoft\net framework setup\NDP" /s
+--for finding which .net framework is installed  in your machine.
+
+https://dotnet.microsoft.com/en-us/learn/dotnet/what-is-dotnet-framework
+https://www.geeksforgeeks.org/introduction-to-net-framework/
+https://www.w3schools.com/cs/index.php
+
+

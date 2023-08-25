@@ -1,0 +1,7 @@
+D:\VS 2019\PrimeOrNot\bin\Debug\PrimeOrNot.exe.config
+D:\VS 2019\PrimeOrNot\bin\Debug\PrimeOrNot.exe
+D:\VS 2019\PrimeOrNot\bin\Debug\PrimeOrNot.pdb
+D:\VS 2019\PrimeOrNot\obj\Debug\PrimeOrNot.csproj.CoreCompileInputs.cache
+D:\VS 2019\PrimeOrNot\obj\Debug\PrimeOrNot.exe
+D:\VS 2019\PrimeOrNot\obj\Debug\PrimeOrNot.pdb
+D:\VS 2019\PrimeOrNot\obj\Debug\PrimeOrNot.csproj.AssemblyReference.cache

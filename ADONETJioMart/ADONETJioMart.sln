@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33920.266
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ADONETJioMart", "ADONETJioMart\ADONETJioMart.csproj", "{4FA4AA43-09A1-46D8-9913-C6A7A761E009}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4FA4AA43-09A1-46D8-9913-C6A7A761E009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4FA4AA43-09A1-46D8-9913-C6A7A761E009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4FA4AA43-09A1-46D8-9913-C6A7A761E009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4FA4AA43-09A1-46D8-9913-C6A7A761E009}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F2D4268-A6D5-43B9-86BB-632D0997576B}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,7 @@
+D:\VS 2019\GenericJioMart\GenericJioMart\bin\Debug\GenericJioMart.exe.config
+D:\VS 2019\GenericJioMart\GenericJioMart\bin\Debug\GenericJioMart.exe
+D:\VS 2019\GenericJioMart\GenericJioMart\bin\Debug\GenericJioMart.pdb
+D:\VS 2019\GenericJioMart\GenericJioMart\obj\Debug\GenericJioMart.csproj.AssemblyReference.cache
+D:\VS 2019\GenericJioMart\GenericJioMart\obj\Debug\GenericJioMart.csproj.CoreCompileInputs.cache
+D:\VS 2019\GenericJioMart\GenericJioMart\obj\Debug\GenericJioMart.exe
+D:\VS 2019\GenericJioMart\GenericJioMart\obj\Debug\GenericJioMart.pdb

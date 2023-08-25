@@ -1,0 +1,7 @@
+D:\VS 2019\Pattern\bin\Debug\Pattern.exe.config
+D:\VS 2019\Pattern\bin\Debug\Pattern.exe
+D:\VS 2019\Pattern\bin\Debug\Pattern.pdb
+D:\VS 2019\Pattern\obj\Debug\Pattern.csproj.AssemblyReference.cache
+D:\VS 2019\Pattern\obj\Debug\Pattern.csproj.CoreCompileInputs.cache
+D:\VS 2019\Pattern\obj\Debug\Pattern.exe
+D:\VS 2019\Pattern\obj\Debug\Pattern.pdb

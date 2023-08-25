@@ -1,0 +1,7 @@
+D:\VS 2019\Palindrom\bin\Debug\Palindrom.exe.config
+D:\VS 2019\Palindrom\bin\Debug\Palindrom.exe
+D:\VS 2019\Palindrom\bin\Debug\Palindrom.pdb
+D:\VS 2019\Palindrom\obj\Debug\Palindrom.csproj.CoreCompileInputs.cache
+D:\VS 2019\Palindrom\obj\Debug\Palindrom.exe
+D:\VS 2019\Palindrom\obj\Debug\Palindrom.pdb
+D:\VS 2019\Palindrom\obj\Debug\Palindrom.csproj.AssemblyReference.cache

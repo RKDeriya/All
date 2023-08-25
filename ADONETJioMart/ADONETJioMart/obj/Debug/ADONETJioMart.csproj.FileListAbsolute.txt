@@ -1,0 +1,7 @@
+D:\VS 2019\ADONETJioMart\ADONETJioMart\bin\Debug\ADONETJioMart.exe.config
+D:\VS 2019\ADONETJioMart\ADONETJioMart\bin\Debug\ADONETJioMart.exe
+D:\VS 2019\ADONETJioMart\ADONETJioMart\bin\Debug\ADONETJioMart.pdb
+D:\VS 2019\ADONETJioMart\ADONETJioMart\obj\Debug\ADONETJioMart.csproj.AssemblyReference.cache
+D:\VS 2019\ADONETJioMart\ADONETJioMart\obj\Debug\ADONETJioMart.csproj.CoreCompileInputs.cache
+D:\VS 2019\ADONETJioMart\ADONETJioMart\obj\Debug\ADONETJioMart.exe
+D:\VS 2019\ADONETJioMart\ADONETJioMart\obj\Debug\ADONETJioMart.pdb

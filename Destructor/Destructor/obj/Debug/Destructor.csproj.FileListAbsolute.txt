@@ -1,0 +1,7 @@
+D:\VS 2019\Destructor\Destructor\bin\Debug\Destructor.exe.config
+D:\VS 2019\Destructor\Destructor\bin\Debug\Destructor.exe
+D:\VS 2019\Destructor\Destructor\bin\Debug\Destructor.pdb
+D:\VS 2019\Destructor\Destructor\obj\Debug\Destructor.csproj.AssemblyReference.cache
+D:\VS 2019\Destructor\Destructor\obj\Debug\Destructor.csproj.CoreCompileInputs.cache
+D:\VS 2019\Destructor\Destructor\obj\Debug\Destructor.exe
+D:\VS 2019\Destructor\Destructor\obj\Debug\Destructor.pdb
