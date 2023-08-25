@@ -1,0 +1,7 @@
+C:\Users\rajesh.deriya\source\repos\practice7_8\array_and_property\bin\Debug\array_and_property.exe.config
+C:\Users\rajesh.deriya\source\repos\practice7_8\array_and_property\bin\Debug\array_and_property.exe
+C:\Users\rajesh.deriya\source\repos\practice7_8\array_and_property\bin\Debug\array_and_property.pdb
+C:\Users\rajesh.deriya\source\repos\practice7_8\array_and_property\obj\Debug\array_and_property.csproj.AssemblyReference.cache
+C:\Users\rajesh.deriya\source\repos\practice7_8\array_and_property\obj\Debug\array_and_property.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.deriya\source\repos\practice7_8\array_and_property\obj\Debug\array_and_property.exe
+C:\Users\rajesh.deriya\source\repos\practice7_8\array_and_property\obj\Debug\array_and_property.pdb

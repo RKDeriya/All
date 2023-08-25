@@ -1,0 +1,7 @@
+C:\Users\rajesh.deriya\source\repos\class practice\class practice\bin\Debug\class practice.exe.config
+C:\Users\rajesh.deriya\source\repos\class practice\class practice\bin\Debug\class practice.exe
+C:\Users\rajesh.deriya\source\repos\class practice\class practice\bin\Debug\class practice.pdb
+C:\Users\rajesh.deriya\source\repos\class practice\class practice\obj\Debug\class practice.csproj.AssemblyReference.cache
+C:\Users\rajesh.deriya\source\repos\class practice\class practice\obj\Debug\class practice.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.deriya\source\repos\class practice\class practice\obj\Debug\class practice.exe
+C:\Users\rajesh.deriya\source\repos\class practice\class practice\obj\Debug\class practice.pdb

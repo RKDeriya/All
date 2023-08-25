@@ -1,0 +1,7 @@
+C:\Users\rajesh.deriya\source\repos\practice7_8\bin\Debug\practice7_8.exe.config
+C:\Users\rajesh.deriya\source\repos\practice7_8\bin\Debug\practice7_8.exe
+C:\Users\rajesh.deriya\source\repos\practice7_8\bin\Debug\practice7_8.pdb
+C:\Users\rajesh.deriya\source\repos\practice7_8\obj\Debug\practice7_8.csproj.AssemblyReference.cache
+C:\Users\rajesh.deriya\source\repos\practice7_8\obj\Debug\practice7_8.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.deriya\source\repos\practice7_8\obj\Debug\practice7_8.exe
+C:\Users\rajesh.deriya\source\repos\practice7_8\obj\Debug\practice7_8.pdb

@@ -1,0 +1,7 @@
+C:\Users\rajesh.deriya\source\repos\lasttry_array\lasttry_array\obj\Debug\lasttry_array.csproj.AssemblyReference.cache
+C:\Users\rajesh.deriya\source\repos\lasttry_array\lasttry_array\obj\Debug\lasttry_array.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.deriya\source\repos\lasttry_array\lasttry_array\bin\Debug\lasttry_array.exe.config
+C:\Users\rajesh.deriya\source\repos\lasttry_array\lasttry_array\bin\Debug\lasttry_array.exe
+C:\Users\rajesh.deriya\source\repos\lasttry_array\lasttry_array\bin\Debug\lasttry_array.pdb
+C:\Users\rajesh.deriya\source\repos\lasttry_array\lasttry_array\obj\Debug\lasttry_array.exe
+C:\Users\rajesh.deriya\source\repos\lasttry_array\lasttry_array\obj\Debug\lasttry_array.pdb

@@ -1,0 +1,7 @@
+C:\Users\rajesh.deriya\source\repos\array_practice\array_practice\bin\Debug\array_practice.exe.config
+C:\Users\rajesh.deriya\source\repos\array_practice\array_practice\bin\Debug\array_practice.exe
+C:\Users\rajesh.deriya\source\repos\array_practice\array_practice\bin\Debug\array_practice.pdb
+C:\Users\rajesh.deriya\source\repos\array_practice\array_practice\obj\Debug\array_practice.csproj.AssemblyReference.cache
+C:\Users\rajesh.deriya\source\repos\array_practice\array_practice\obj\Debug\array_practice.csproj.CoreCompileInputs.cache
+C:\Users\rajesh.deriya\source\repos\array_practice\array_practice\obj\Debug\array_practice.exe
+C:\Users\rajesh.deriya\source\repos\array_practice\array_practice\obj\Debug\array_practice.pdb
