@@ -1,0 +1,17 @@
+
+Customers : A user who shop on Jio Mart App
+Admin : Am Admin who manage customers, Products and orders.
+
+
+Registration/Login:
+Customer can register and login.
+Brows Product—Customer;
+Add to cart ---customer;
+View Cart –Customer;
+Remove from cart—customer;
+Place Order –Customer;
+Track Order --customer
+Manage Order--Admin
+Manage User,--Admin
+Manage Inventory--Admin
+Manage category--Admin
